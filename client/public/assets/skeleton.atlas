@@ -1,0 +1,132 @@
+
+skeleton.png
+size: 474,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/Asset 19
+  rotate: false
+  xy: 371, 42
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+assets/abdomen
+  rotate: true
+  xy: 314, 45
+  size: 160, 82
+  orig: 160, 82
+  offset: 0, 0
+  index: -1
+assets/ball
+  rotate: false
+  xy: 2, 123
+  size: 268, 268
+  orig: 272, 272
+  offset: 2, 2
+  index: -1
+assets/chest
+  rotate: false
+  xy: 398, 127
+  size: 72, 78
+  orig: 72, 78
+  offset: 0, 0
+  index: -1
+assets/eyes
+  rotate: true
+  xy: 398, 16
+  size: 109, 63
+  orig: 109, 63
+  offset: 0, 0
+  index: -1
+assets/green hat
+  rotate: false
+  xy: 2, 62
+  size: 128, 59
+  orig: 128, 59
+  offset: 0, 0
+  index: -1
+assets/head
+  rotate: true
+  xy: 272, 207
+  size: 184, 154
+  orig: 184, 154
+  offset: 0, 0
+  index: -1
+assets/left antenna
+  rotate: false
+  xy: 59, 14
+  size: 99, 28
+  orig: 99, 28
+  offset: 0, 0
+  index: -1
+assets/left arm point
+  rotate: false
+  xy: 132, 52
+  size: 74, 28
+  orig: 74, 28
+  offset: 0, 0
+  index: -1
+assets/left lower leg
+  rotate: false
+  xy: 428, 230
+  size: 44, 161
+  orig: 44, 161
+  offset: 0, 0
+  index: -1
+assets/left upper leg
+  rotate: true
+  xy: 59, 44
+  size: 16, 67
+  orig: 16, 67
+  offset: 0, 0
+  index: -1
+assets/mouth1
+  rotate: false
+  xy: 314, 4
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+assets/mouth2
+  rotate: true
+  xy: 233, 69
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+assets/mouth3
+  rotate: false
+  xy: 262, 2
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+assets/right antenna
+  rotate: true
+  xy: 208, 5
+  size: 62, 52
+  orig: 62, 52
+  offset: 0, 0
+  index: -1
+assets/right arm
+  rotate: false
+  xy: 2, 7
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+assets/right lower leg
+  rotate: false
+  xy: 272, 36
+  size: 40, 169
+  orig: 40, 169
+  offset: 0, 0
+  index: -1
+assets/right upper leg
+  rotate: true
+  xy: 132, 82
+  size: 39, 99
+  orig: 39, 99
+  offset: 0, 0
+  index: -1

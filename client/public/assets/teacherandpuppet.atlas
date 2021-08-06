@@ -1,0 +1,153 @@
+
+teacherandpuppet.png
+size: 501,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/Asset 19
+  rotate: false
+  xy: 2, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+teacherandpuppet/eyes
+  rotate: false
+  xy: 159, 2
+  size: 67, 24
+  orig: 67, 24
+  offset: 0, 0
+  index: -1
+teacherandpuppet/left-arm
+  rotate: true
+  xy: 345, 11
+  size: 15, 54
+  orig: 15, 54
+  offset: 0, 0
+  index: -1
+teacherandpuppet/leftarm
+  rotate: false
+  xy: 207, 269
+  size: 111, 251
+  orig: 111, 251
+  offset: 0, 0
+  index: -1
+teacherandpuppet/mouth2_1
+  rotate: false
+  xy: 465, 81
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+teacherandpuppet/mouth3_1
+  rotate: false
+  xy: 319, 167
+  size: 46, 14
+  orig: 46, 14
+  offset: 0, 0
+  index: -1
+teacherandpuppet/mouth4
+  rotate: false
+  xy: 437, 184
+  size: 46, 10
+  orig: 46, 10
+  offset: 0, 0
+  index: -1
+teacherandpuppet/puppet-body
+  rotate: true
+  xy: 207, 178
+  size: 89, 110
+  orig: 89, 110
+  offset: 0, 0
+  index: -1
+teacherandpuppet/puppet-head
+  rotate: true
+  xy: 320, 183
+  size: 113, 115
+  orig: 113, 115
+  offset: 0, 0
+  index: -1
+teacherandpuppet/puppet-mouth
+  rotate: false
+  xy: 367, 168
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+teacherandpuppet/puppeteyeleft
+  rotate: false
+  xy: 406, 80
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+teacherandpuppet/puppeteyeright
+  rotate: false
+  xy: 421, 80
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+teacherandpuppet/right-arm
+  rotate: true
+  xy: 289, 10
+  size: 16, 54
+  orig: 16, 54
+  offset: 0, 0
+  index: -1
+teacherandpuppet/right-sleeve
+  rotate: false
+  xy: 406, 97
+  size: 63, 84
+  orig: 63, 84
+  offset: 0, 0
+  index: -1
+teacherandpuppet/rightarm
+  rotate: true
+  xy: 437, 196
+  size: 100, 49
+  orig: 100, 49
+  offset: 0, 0
+  index: -1
+teacherandpuppet/teacher-body
+  rotate: true
+  xy: 159, 28
+  size: 131, 245
+  orig: 131, 245
+  offset: 0, 0
+  index: -1
+teacherandpuppet/teacher-head
+  rotate: true
+  xy: 320, 298
+  size: 222, 179
+  orig: 222, 179
+  offset: 0, 0
+  index: -1
+teacherandpuppet/teacher-legs
+  rotate: false
+  xy: 2, 161
+  size: 203, 359
+  orig: 203, 359
+  offset: 0, 0
+  index: -1
+teacherandpuppet/teacher-mouth
+  rotate: false
+  xy: 228, 6
+  size: 59, 20
+  orig: 59, 20
+  offset: 0, 0
+  index: -1
+teacherandpuppet/teacher-point
+  rotate: false
+  xy: 2, 7
+  size: 155, 152
+  orig: 155, 152
+  offset: 0, 0
+  index: -1
+teacherandpuppet/teacher-smile
+  rotate: false
+  xy: 401, 12
+  size: 62, 14
+  orig: 62, 14
+  offset: 0, 0
+  index: -1

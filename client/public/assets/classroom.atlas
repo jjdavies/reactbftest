@@ -1,0 +1,110 @@
+
+classroom.png
+size: 1936,1334
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/Asset 20
+  rotate: false
+  xy: 2, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+classroom/boy head
+  rotate: false
+  xy: 1726, 1152
+  size: 208, 180
+  orig: 208, 180
+  offset: 0, 0
+  index: -1
+classroom/boy-body
+  rotate: false
+  xy: 238, 1238
+  size: 215, 94
+  orig: 215, 94
+  offset: 0, 0
+  index: -1
+classroom/boy-hand
+  rotate: true
+  xy: 153, 1269
+  size: 63, 83
+  orig: 63, 83
+  offset: 0, 0
+  index: -1
+classroom/boy-low-arm
+  rotate: false
+  xy: 2, 1302
+  size: 71, 30
+  orig: 71, 30
+  offset: 0, 0
+  index: -1
+classroom/boy-upp-arm
+  rotate: true
+  xy: 75, 1275
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+classroom/girl-body
+  rotate: false
+  xy: 624, 1232
+  size: 192, 100
+  orig: 192, 100
+  offset: 0, 0
+  index: -1
+classroom/girl-crayon-arm
+  rotate: false
+  xy: 455, 1236
+  size: 167, 96
+  orig: 167, 96
+  offset: 0, 0
+  index: -1
+classroom/girl-head
+  rotate: false
+  xy: 1191, 1173
+  size: 243, 159
+  orig: 243, 159
+  offset: 0, 0
+  index: -1
+classroom/herpicture
+  rotate: false
+  xy: 818, 1195
+  size: 371, 137
+  orig: 371, 137
+  offset: 0, 0
+  index: -1
+classroom/hispicture
+  rotate: false
+  xy: 1436, 1167
+  size: 288, 165
+  orig: 288, 165
+  offset: 0, 0
+  index: -1
+classroom/shelf
+  rotate: false
+  xy: 2, 898
+  size: 551, 336
+  orig: 551, 336
+  offset: 0, 0
+  index: -1
+classroom/table
+  rotate: false
+  xy: 555, 724
+  size: 1258, 426
+  orig: 1258, 426
+  offset: 0, 0
+  index: -1
+
+classroom2.png
+size: 2048,1568
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+classroom/background
+  rotate: false
+  xy: 2, 2
+  size: 2044, 1564
+  orig: 2044, 1564
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,14 @@
+{
+  "name": "reactbftest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server":"node server"
+  },
+  "author": "Jon-James Davies",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
